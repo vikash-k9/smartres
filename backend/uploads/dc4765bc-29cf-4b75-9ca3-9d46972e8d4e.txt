@@ -1,0 +1,8 @@
+John Doe 
+john.doe@email.com | +91-9876543210 
+EDUCATION 
+B.Tech in Computer Science, NIT Rourkela (2022-2026) - CGPA: 8.5 
+SKILLS 
+Python, React, FastAPI, Docker, PostgreSQL 
+EXPERIENCE 
+Software Intern at XYZ Corp (June 2025 - Aug 2025) - Developed REST APIs using FastAPI
